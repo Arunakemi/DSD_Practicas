@@ -9,9 +9,9 @@ import javax.swing.*;
 public class Ventana extends JFrame {
 
     // Variables de los botos y sus iconos
-    private ImageIcon icon = new ImageIcon("edit.png"); 
-    private ImageIcon icon_plus = new ImageIcon("plus.png"); 
-    private ImageIcon icon_minus = new ImageIcon("minus.png"); 
+    private ImageIcon icon = new ImageIcon("Imagenes/edit.png"); 
+    private ImageIcon icon_plus = new ImageIcon("Imagenes/plus.png"); 
+    private ImageIcon icon_minus = new ImageIcon("Imagenes/minus.png"); 
     private JLabel[] clockDisplays = { new JLabel(), new JLabel(), new JLabel(), new JLabel() };
     private JButton[] editButtons = { new JButton(icon), new JButton(icon), new JButton(icon), new JButton(icon) };
     private JButton[] fastButtons = { new JButton(icon_plus), new JButton(icon_plus), new JButton(icon_plus), new JButton(icon_plus) };

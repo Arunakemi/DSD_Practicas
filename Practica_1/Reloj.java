@@ -38,6 +38,8 @@ public class Reloj extends Thread // Hilo de los relojes
     }
     public void go_Slow() { time += 100; } // Hace que el reloj avance 1 segundo cada 2...3...4 etc 
     public void go_Fast() { time = (time-100 <= 0)? 100 : time-100; } // No queremos que el reloj vaya 'infinito' rapido but gottagofast 
+    public void detener() { detenido = true; }
+    public void continuar() { detenido = false; }
     // Bloque set
     public void set_Hora(double newHora){ hora = newHora; } 
     public void set_Min (double newMin ){ min = newMin;   } 

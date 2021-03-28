@@ -4,7 +4,11 @@ import java.awt.GridLayout;
 import javax.swing.*;
 /* 
 *   @authors
+*   Bautista Garcia hadad
+*   Castañeda Beltran Geovanni
 *   Colin Varela Alejandro
+*   Pérez Sereno Ricardo Erick
+*   Rosales Valdez Edna
 */
 public class Ventana extends JFrame {
 

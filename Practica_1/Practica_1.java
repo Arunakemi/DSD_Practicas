@@ -1,7 +1,11 @@
 import java.time.LocalTime;
 /* 
 *   @authors
+*   Bautista Garcia hadad
+*   Castañeda Beltran Geovanni
 *   Colin Varela Alejandro
+*   Pérez Sereno Ricardo Erick
+*   Rosales Valdez Edna
 */
 class Practica_1 
 {

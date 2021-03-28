@@ -1,6 +1,10 @@
 /* 
 *   @authors
+*   Bautista Garcia hadad
+*   Castañeda Beltran Geovanni
 *   Colin Varela Alejandro
+*   Pérez Sereno Ricardo Erick
+*   Rosales Valdez Edna
 */
 public class Reloj extends Thread // Hilo de los relojes
 {

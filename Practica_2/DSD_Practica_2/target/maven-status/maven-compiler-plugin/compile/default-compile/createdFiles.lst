@@ -1,9 +1,4 @@
-com\ipn\mx\mvc\dsd_practica_2\Ventana$2.class
-com\ipn\mx\mvc\dsd_practica_2\Ventana$4.class
-com\ipn\mx\mvc\dsd_practica_2\Ventana$3.class
-com\ipn\mx\mvc\dsd_practica_2\Ventana.class
-com\ipn\mx\mvc\dsd_practica_2\Cliente.class
-com\ipn\mx\mvc\dsd_practica_2\servidor.class
-com\ipn\mx\mvc\dsd_practica_2\Ventana$1.class
-com\ipn\mx\mvc\dsd_practica_2\Practica_2.class
-com\ipn\mx\mvc\dsd_practica_2\Reloj.class
+Reloj\Manejador_Clientes.class
+Reloj\Cliente.class
+Reloj\Manejador_Servidor.class
+Reloj\Servidor.class

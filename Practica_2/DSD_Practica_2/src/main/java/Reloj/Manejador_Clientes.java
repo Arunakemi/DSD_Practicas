@@ -14,11 +14,16 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author gioli
+/* 
+*   @authors
+*   Bautista Garcia hadad
+*   Castañeda Beltran Geovanni
+*   Colin Varela Alejandro
+*   Pérez Sereno Ricardo Erick
+*   Rosales Valdez Edna
  */
 //Esta clase solo maneja del cliente al servidor y no al reves todo lo que pasa por aqui solo ira desde el cliente a nuestro servidor
+//esta clase no sera utilzada creo
 public class Manejador_Clientes implements Runnable {
 
     private Socket cliente;
